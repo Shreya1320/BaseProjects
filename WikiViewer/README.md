@@ -23,4 +23,4 @@ Hints:
 
 ---
 
-[Yago Estévez](https://twitter.com/yagoestevez)
+[Peanut](https://github.com/PeanutCoffee)
