@@ -1,4 +1,4 @@
-# The Calcoolator
+# The Calculator
 #### Project made for freeCodeCamp "Front End Libraries Projects" module
 
 This is a project made for FreeCodeCamp in which it was required to code a calculator from scratch. Made using React.
@@ -31,4 +31,4 @@ These are the requirements for this project. They are all fullfilled.
 
 ---
 
-[Yago Estévez](https://twitter.com/yagoestevez)
+[Peanut](https://github.com/PeanutCoffee)
