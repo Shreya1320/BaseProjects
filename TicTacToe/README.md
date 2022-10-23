@@ -21,4 +21,4 @@ These are the requirements for this project. They are all fullfilled.
 
 ---
 
-[Yago Estévez](https://twitter.com/yagoestevez)
+[Peanut](https://github.com/PeanutCoffee)
